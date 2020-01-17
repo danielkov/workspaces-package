@@ -1,0 +1,16 @@
+{
+  "name": "@my-namespace/example",
+  "version": "1.0.0",
+  "source": "src/index.ts",
+  "main": "dist/index.js",
+  "browser": "dist/index.umd.js",
+  "module": "dist/index.module.js",
+  "types": "./typings",
+  "files": [
+    "./dist",
+    "./typings"
+  ],
+  "repository": "git@github.com:danielkov/workspaces-package.git",
+  "author": "Daniel Emod Kovacs <kovacsemod@gmail.com>",
+  "license": "MIT"
+}
