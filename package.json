@@ -30,7 +30,7 @@
     "prettier": "1.19.1",
     "rollup": "1.29.0",
     "rollup-plugin-bundle-size": "1.0.3",
-    "rollup-plugin-peer-deps-external": "2.2.0",
+    "rollup-plugin-peer-deps-external": "2.2.4",
     "rollup-plugin-typescript2": "0.25.3",
     "typescript": "3.7.4"
   },
